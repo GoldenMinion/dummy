@@ -1,6 +1,6 @@
 # Dummy
 This is a dummy repo. Uses:
-* Practising entering Git commands into a UNIX terminal (Windows powershell and Git Bash should also be fine)
+* Practising entering Git commands into a UNIX terminal (Windows Powershell and Git Bash should also be fine)
 * Giving tutorials about using said git commands
 ...all without spoiling precious work in another repo.
 
