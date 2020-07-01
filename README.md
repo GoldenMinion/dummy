@@ -16,4 +16,4 @@ This is a dummy repo. Uses:
 
 ## Further topics
 * Resetting commits
-* Merging
+* Merging: checkout to master (or other main branch), then "git merge other branch"
