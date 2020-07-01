@@ -5,7 +5,7 @@ This is a dummy repo. Uses:
 
 ...all without spoiling precious work in another repo.
 
-Git topics to cover/practise:
+## Git topics to cover/practise
 * Cloning
 * Adding
 * Commiting
@@ -14,6 +14,6 @@ Git topics to cover/practise:
 * Fetching
 * Branches: creating and switching between them. Also mention the significance of master and dev branches.
 
-Further topics:
+## Further topics
 * Resetting commits
 * Merging
